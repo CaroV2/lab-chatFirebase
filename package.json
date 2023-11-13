@@ -1,0 +1,19 @@
+{
+  "name": "lab-chatfirebase",
+  "version": "1.0.0",
+  "description": "Code for building a chat using typescript and firebase",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve",
+    "build": "webpack --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.1",
+    "start": "^5.1.0",
+    "ts-loader": "^9.5.0",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
